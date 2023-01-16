@@ -19,7 +19,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=Liaukouskaya&style=flat-square&color=green" alt=""/>
 <div id="header" align="center">
-𝘔𝘺 𝘯𝘢𝘮𝘦 𝘪𝘴 𝘔𝘢𝘳𝘪𝘯𝘢. 𝘞𝘦𝘭𝘤𝘰𝘮𝘦 𝘵𝘰 𝘮𝘺 𝘗𝘺𝘵𝘩𝘰𝘯'𝘴 𝘞𝘰𝘳𝘭𝘥!
+𝘔𝘺 𝘯𝘢𝘮𝘦 𝘪𝘴 𝘔𝘢𝘳𝘺𝘯𝘢. 𝘞𝘦𝘭𝘤𝘰𝘮𝘦 𝘵𝘰 𝘮𝘺 𝘗𝘺𝘵𝘩𝘰𝘯'𝘴 𝘞𝘰𝘳𝘭𝘥!
  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="15px"/>
 </h1>
   
