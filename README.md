@@ -41,7 +41,7 @@ I am a Junior Python Developer :raised_hand_with_fingers_splayed: from Belarus.
   
 - :woman_scientist: I have worked as a Junior research fellow specialised in biotechnology.
  
-- :rabbit2: Volunteering at an Animal Shelters.
+- :rabbit2: Volunteering at Animal Shelters.
 
 - :sunflower: Constantly developing in film photography and contemporary dance. I take part in sports competitions.
 
