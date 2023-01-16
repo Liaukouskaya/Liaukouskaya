@@ -23,18 +23,32 @@
  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="15px"/>
 </h1>
   
+---
+<div id="header" align="left">  
+  
+### :woman_technologist: About Me :
+  
+I am a Junior Python Developer :raised_hand_with_fingers_splayed: from Belarus.
+ 
+  <div id="header" align="left"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Spring" alt="Spring" width="33" height="33"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Material UI" alt="Material UI" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="30" height="30"/>
+</div>
+  
+  
+- :woman_technologist: Currently focused on advance as a Python developer.
+  
+- :woman_scientist: I have worked as a Junior research fellow specialised in biotechnology.
+ 
+- :rabbit2: Volunteering at an Animal Shelters.
 
-<!--
-**Liaukouskaya/Liaukouskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :sunflower: Constantly developing in film photography and contemporary dance. I take part in sports competitions.
 
-Here are some ideas to get you started:
+  ---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Statistics :
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Liaukouskaya&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+
