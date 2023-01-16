@@ -1,7 +1,7 @@
 ### “You become responsible, forever, for what you have tamed.”
 ― Antoine de Saint-Exupéry, The Little Prince
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/HUplkVCPY7jTW/giphy.gif" width="350"/>
+  <img src="https://media.giphy.com/media/ptzlRfMuHaGgccUzbh/giphy.gif" width="350"/>
 </div>
 <!--
 **Liaukouskaya/Liaukouskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
