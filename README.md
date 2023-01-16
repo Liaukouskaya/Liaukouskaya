@@ -26,7 +26,7 @@
 ---
 <div id="header" align="left">  
   
-###  A b o u t  m e :
+###  A b o u t   m e :
   
 I am a Junior Python Developer :raised_hand_with_fingers_splayed: from Belarus.
  
