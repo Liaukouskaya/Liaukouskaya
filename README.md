@@ -26,7 +26,7 @@
 ---
 <div id="header" align="left">  
   
-### :woman_technologist: About Me :
+###  About Me :
   
 I am a Junior Python Developer :raised_hand_with_fingers_splayed: from Belarus.
  
@@ -47,7 +47,7 @@ I am a Junior Python Developer :raised_hand_with_fingers_splayed: from Belarus.
 
   ---
 
-### Statistics :
+###  Statistics :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Liaukouskaya&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
